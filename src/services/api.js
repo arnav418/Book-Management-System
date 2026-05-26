@@ -1,5 +1,5 @@
 import axios from "axios";
-const API_URL = import.meta.env.VITE_API_URL;
+const API_URL = "https://6a153dcd91ff9a63de07ad72.mockapi.io/books";
 export const getBooks = () => axios.get(API_URL);
 export const addBook = (book) => axios.post(API_URL, book);
 export const updateBook = (id, book) => axios.put(`${API_URL}/${id}`, book);
