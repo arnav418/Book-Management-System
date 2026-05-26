@@ -5,46 +5,46 @@ A modern and responsive Book Management System built using React.js and Vite wit
 ## Live Demo 
 https://hilarious-quokka-f32054.netlify.app/
 
-## Features Implemented 
+# Features Implemented 
 
-# Book Management
+## Book Management
 - Add New Books
 - Edit Existing Books
 - Delete Books
 - View All Books
 
-# Search Functionality
+## Search Functionality
 - Book Title
 - Author Name
 
-# Dynamic Genre Filtering 
+## Dynamic Genre Filtering 
 - Filter books by genre
 - Automatically updates genres dynamically based on added books
 
-# Responsive Design 
+## Responsive Design 
 - Mobile Friendly
 - Tablet Friendly
 - Desktop Optimized
 
 
-## Technologies Used 
+# Technologies Used 
 
-# Frontend
+## Frontend
 - React
 - Vite
 - CSS3
 - Axios
 
-# API & Backend 
+## API & Backend 
 - MockAPI (REST API)
 
-# Deployment 
+## Deployment 
 - Netlify
 
-# Version Control
+## Version Control
 - Github
 
-## Project Structure
+# Project Structure
 ```bash
 src/
 │
@@ -65,7 +65,7 @@ src/
 └── main.jsx
 ```
 
-## Installation & Setup 
+# Installation & Setup 
 
 ```bash
 git clone https://github.com/arnav418/Book-Management-System.git
@@ -79,7 +79,7 @@ npm install
 ```
 npm run dev
 ```
-## Author 
+# Author 
 Arnav Priyadarshi
 
 
